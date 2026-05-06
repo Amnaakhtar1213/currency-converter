@@ -31,13 +31,13 @@ This is a currency-converter app that let the user enter amount and choose which
 ## SCREENSHOTS 📸
 
 Here's what the app look like
-- [Click here for currency-converter screenshot]()
+- [Click here for currency-converter screenshot](ss.png)
 
 ------------------------------
 
 ## LIVE DEMO 🌐
 
-[Click here for live-demo]( ss.png)
+[Click here for live-demo](https://amnaakhtar1213.github.io/currency-converter/)
 
 ----------------------------
 
