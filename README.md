@@ -15,7 +15,7 @@ This is a currency-converter app that let the user enter amount and choose which
 
 --------------------------
 
-## TECHNOLOGY
+## TECHNOLOGY 🛠️
 
 1. **HTML**
 2. **CSS**
